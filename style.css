@@ -1,0 +1,49 @@
+body {
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Sans-serif", Sans-serif
+}
+.redlarge {
+	color: red;
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+	color:navy;
+	margin-left: 14px;
+}
+
+h2 {
+	margin-left: 17px;
+	
+}
+
+a:hover, a:active {
+	background-color: teal;
+}
+
+#t1 {
+	font-size: 22px;
+}
+
+tr:nth-child(odd) {
+	background-color: #f3f2f3;
+}
+
+.face {
+	max-width:250px;
+	height:auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#Quote {
+	font-style: italic;
+	text-align: center;
+	font-size: 24px;
+	font-family: "Avenir", Sans-serif;
+}
